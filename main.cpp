@@ -15,8 +15,9 @@ int main() {
 	//input, whatever is typed into the console before the enter key is next pressed will be stored in the variable specified after the >>
 
 	string listOfGames[6] = { "CHESS", "CHECKERS", "BACKGAMMON", "POKER", "THEATERWIDE BIOTOXIC AND CHEMICAL WARFARE", "GLOBAL THERMONUCLEAR WARFARE" };
+	//listOfGames is an array. Think of an array like one of those elementary school cubbies where each kid has his own cubby. Each string literal ("hello") has its own cubby
 
-	//mwahahaha i added back the space because its easier to read
+	//mwahahaha i added back the space because it's easier to read
 	if  (a == "yes") {
 	 
 		for (int game = 0; game < 6; game++) {
