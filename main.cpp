@@ -28,6 +28,7 @@ int main() {
 			cout << listOfGames[game] << "\n";
 
 		}
+		//in this for loop, we defined the int games, which is how many games the loop has couted. Then, it'll loop until games is equal to or greater than 6. Every time the loop runs, it'll add one to the int games
 
 	} else if (a == "YES") {
 
