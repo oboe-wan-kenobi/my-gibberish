@@ -1,7 +1,9 @@
 #include <iostream>
-#include <locale>
+#include <cctype>
 #include <string>
 using namespace std;
+
+//Todo: define a to lowercase machine with a for loop and adding to an array of chars the i char in the string with some sort of atchar equivalent. 
 
 int main() {
   
