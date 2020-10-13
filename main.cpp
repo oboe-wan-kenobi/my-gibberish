@@ -42,7 +42,7 @@ int main() {
 
  		for (int game = 0; game < 6; game++) {
 
-   	 cout << listOfGames[game] << "\n";
+   		cout << listOfGames[game] << "\n";
 
 		}
 
